@@ -1,0 +1,82 @@
+2017-06-09 15:56:42,797 - root - INFO - ********接口测试开始********
+2017-06-09 15:56:42,877 - root - INFO - 用例编号：TDDSJ001 ，用例名称：标签列表-type为空 
+测试通过！
+2017-06-09 15:56:43,017 - root - INFO - 用例编号：TDDSJ036 ，用例名称：周边项目分析-label，longitude和latitude均存在,distance不为空，当前页数小于等于总页数 
+测试通过！
+2017-06-09 15:56:43,017 - root - INFO - ********接口测试结束********
+2017-06-09 15:56:43,017 - root - INFO - 接口自动化脚本运行时间：0.212 seconds
+2017-06-09 16:06:00,233 - root - INFO - ********接口测试开始********
+2017-06-09 16:06:00,327 - root - INFO - 用例编号：TDDSJ001 ，用例名称：标签列表-type为空 
+测试通过！
+2017-06-09 16:06:00,679 - root - INFO - 用例编号：TDDSJ002 ，用例名称：标签列表-type不存在 
+测试通过！
+2017-06-09 16:06:00,808 - root - INFO - 用例编号：TDDSJ003 ，用例名称：标签列表-type值正确 
+测试通过！
+2017-06-09 16:06:00,888 - root - INFO - 用例编号：TDDSJ004 ，用例名称：地块统计-label_id为空 
+测试通过！
+2017-06-09 16:06:00,967 - root - INFO - 用例编号：TDDSJ005 ，用例名称：地块统计-city为空 
+测试通过！
+2017-06-09 16:06:01,546 - root - INFO - 用例编号：TDDSJ006 ，用例名称：地块统计-label_id不存在，city存在 
+测试通过！
+2017-06-09 16:06:01,624 - root - INFO - 用例编号：TDDSJ007 ，用例名称：地块统计-label_id存在，type=0 
+测试通过！
+2017-06-09 16:06:01,733 - root - INFO - 用例编号：TDDSJ008 ，用例名称：地块统计-label_id存在，type=1 
+测试通过！
+2017-06-09 16:06:01,811 - root - INFO - 用例编号：TDDSJ009 ，用例名称：地块列表-label_id为空 
+测试通过！
+2017-06-09 16:06:02,393 - root - INFO - 用例编号：TDDSJ010 ，用例名称：地块列表-label_id不为空，type为空 
+测试通过！
+2017-06-09 16:06:03,110 - root - INFO - 用例编号：TDDSJ011 ，用例名称：地块列表-label_id不存在 
+测试通过！
+2017-06-09 16:06:04,343 - root - INFO - 用例编号：TDDSJ012 ，用例名称：地块列表-label_id存在，当前页数大于总页数 
+测试通过！
+2017-06-09 16:06:04,454 - root - INFO - 用例编号：TDDSJ013 ，用例名称：地块列表-label_id存在，当前页数小于等于总页数 
+测试通过！
+2017-06-09 16:06:04,548 - root - INFO - 用例编号：TDDSJ014 ，用例名称：地块详情-master_id为空 
+测试通过！
+2017-06-09 16:06:04,890 - root - INFO - 用例编号：TDDSJ015 ，用例名称：地块详情-master_id不存在 
+测试通过！
+2017-06-09 16:06:04,984 - root - INFO - 用例编号：TDDSJ016 ，用例名称：地块详情-master_id值正确 
+测试通过！
+2017-06-09 16:06:08,391 - root - INFO - 用例编号：TDDSJ017 ，用例名称：地块搜索-keywords不存在 
+测试通过！
+2017-06-09 16:06:10,796 - root - INFO - 用例编号：TDDSJ018 ，用例名称：地块搜索-city不存在 
+测试通过！
+2017-06-09 16:06:19,201 - root - INFO - 用例编号：TDDSJ019 ，用例名称：地块搜索-keywords和city存在，page大于总页数 
+测试通过！
+2017-06-09 16:06:19,343 - root - INFO - 用例编号：TDDSJ020 ，用例名称：地块搜索-keywords和city存在，page小于等于总页数 
+测试通过！
+2017-06-09 16:06:19,423 - root - INFO - 用例编号：TDDSJ021 ，用例名称：周边配套信息-label为空，longitude和latitude不为空 
+测试通过！
+2017-06-09 16:06:19,502 - root - INFO - 用例编号：TDDSJ022 ，用例名称：周边配套信息-longitude为空，label和latitude不为空 
+测试通过！
+2017-06-09 16:06:19,580 - root - INFO - 用例编号：TDDSJ023 ，用例名称：周边配套信息-latitude为空，label和longitude不为空 
+测试通过！
+2017-06-09 16:06:20,157 - root - INFO - 用例编号：TDDSJ024 ，用例名称：周边配套信息-label不存在，longitude和latitude均存在，,distance不为空 
+测试通过！
+2017-06-09 16:06:20,860 - root - INFO - 用例编号：TDDSJ025 ，用例名称：周边配套信息-label，longitude和latitude均不存在，,distance不为空 
+测试通过！
+2017-06-09 16:06:22,109 - root - INFO - 用例编号：TDDSJ026 ，用例名称：周边配套信息-label，longitude和latitude均存在,distance为空 
+测试通过！
+2017-06-09 16:06:22,923 - root - INFO - 用例编号：TDDSJ027 ，用例名称：周边配套信息-label，longitude和latitude均存在,distance不为空，当前页数大于总页数 
+测试通过！
+2017-06-09 16:06:23,689 - root - INFO - 用例编号：TDDSJ028 ，用例名称：周边配套信息-label，longitude和latitude均存在,distance不为空，当前页数小于等于总页数 
+测试通过！
+2017-06-09 16:06:23,782 - root - INFO - 用例编号：TDDSJ029 ，用例名称：周边项目分析-label为空，longitude和latitude不为空 
+测试通过！
+2017-06-09 16:06:23,860 - root - INFO - 用例编号：TDDSJ030 ，用例名称：周边项目分析-longitude为空，label和latitude不为空 
+测试通过！
+2017-06-09 16:06:23,923 - root - INFO - 用例编号：TDDSJ031 ，用例名称：周边项目分析-latitude为空，label和longitude不为空 
+测试通过！
+2017-06-09 16:06:24,553 - root - INFO - 用例编号：TDDSJ032 ，用例名称：周边项目分析-label不存在，longitude和latitude均存在，,distance不为空 
+测试通过！
+2017-06-09 16:06:25,175 - root - INFO - 用例编号：TDDSJ033 ，用例名称：周边项目分析-label，longitude和latitude均不存在,distance不为空 
+测试通过！
+2017-06-09 16:06:26,100 - root - INFO - 用例编号：TDDSJ034 ，用例名称：周边项目分析-label，longitude和latitude均存在,distance为空 
+测试通过！
+2017-06-09 16:06:26,551 - root - INFO - 用例编号：TDDSJ035 ，用例名称：周边项目分析-label，longitude和latitude均存在,distance不为空，当前页数大于总页数 
+测试通过！
+2017-06-09 16:06:27,052 - root - INFO - 用例编号：TDDSJ036 ，用例名称：周边项目分析-label，longitude和latitude均存在,distance不为空，当前页数小于等于总页数 
+测试通过！
+2017-06-09 16:06:27,068 - root - INFO - ********接口测试结束********
+2017-06-09 16:06:27,068 - root - INFO - 接口自动化脚本运行时间：26.822 seconds
