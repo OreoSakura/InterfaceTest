@@ -78,30 +78,4 @@ class ReadTestcase:
         for i in range(nrows):
             caseactive.append(table.cell(i, 7).value)
         return caseactive
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
