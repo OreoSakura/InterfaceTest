@@ -17,6 +17,3 @@ class ReadConfig:
     def get_email(self, name):
         value = self.cf.get('EMAIL', name)
         return value
-
-
-
