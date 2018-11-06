@@ -81,13 +81,3 @@ class Email:
             self.logger.info("邮件已发送成功。")
         except Exception as ex:
             self.logger.error(str(ex))
-
-
-
-
-
-
-
-
-
-
