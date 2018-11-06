@@ -36,6 +36,7 @@ class Log:
     def get_log_path(self):
         log_path = os.path.join(logPath, "log.log")
         return log_path
+    
 
 
 
